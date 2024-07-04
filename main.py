@@ -151,7 +151,7 @@ def main():
                 # Change the status to offline
                 server_on_line = False
 
-        time.sleep(10)
+        time.sleep(500)
 
 
 if __name__ == '__main__':
